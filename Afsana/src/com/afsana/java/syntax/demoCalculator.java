@@ -11,7 +11,7 @@ public class demoCalculator {
 		c1.performAddition(2, 3);
 		c2.performAddition(2, 4, 1, 3);
 		c3.performAddition(2.2f, 3.3f);
-
+ 
 	}
 
 }
